@@ -46,7 +46,7 @@ class BemCssNaming implements CssNamingInterface {
 	}
 
 	public function append_class( array $extra_classes = [] ): string {
-		array_push( $extra_classes, $this->get_class() );
+		$extra_classes[] = $this->get_class();
 
 		return implode( ' ', $extra_classes );
 	}
