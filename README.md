@@ -1,5 +1,9 @@
 # Archetype Theme Kit
 
+> **Important Note:**
+> - This library is currently under development. Please exercise caution when installing and using it.
+> - This library is specifically designed for WordPress theme development.
+
 A high-performance PHP library designed to streamline WordPress theme development by providing a standardized foundation of core functions, global constants, and reusable utilities.
 
 ## Introduction
