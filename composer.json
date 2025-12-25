@@ -1,6 +1,5 @@
 {
     "name": "calm-canvas/archetype-theme-kit",
-    "version": "1.0.0",
     "description": "Archetype-Theme-Kit is a high-performance PHP library for WordPress developers. It provides a standardized foundation of core functions, global constants, and reusable utilities. Designed to streamline theme development, it ensures architectural consistency and clean code across multiple projects.",
     "type": "library",
     "license": "GPL-3.0-or-later",

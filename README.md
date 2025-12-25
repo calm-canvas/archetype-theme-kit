@@ -55,4 +55,4 @@ $service = Engine::resolve('service-name');
 
 ## License
 
-GPLv3
+GPL-3.0-or-later
