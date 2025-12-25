@@ -1,6 +1,6 @@
 <?php
 
-namespace ArchetypeThemeKit\Constant\FilterHook;
+namespace CalmCanvas\ArchetypeThemeKit\Constant\FilterHook;
 
 interface Cache {
 	const CACHE_TYPE = 'opw/factory/cache-type';

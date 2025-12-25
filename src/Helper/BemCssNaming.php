@@ -1,10 +1,10 @@
 <?php
 
-namespace ArchetypeThemeKit\Helper;
+namespace CalmCanvas\ArchetypeThemeKit\Helper;
 
 use Aura\Di\Exception\ServiceNotFound;
-use ArchetypeThemeKit\Contract\Helper\CssNamingInterface;
-use ArchetypeThemeKit\Engine;
+use CalmCanvas\ArchetypeThemeKit\Contract\Helper\CssNamingInterface;
+use CalmCanvas\ArchetypeThemeKit\Engine;
 
 class BemCssNaming implements CssNamingInterface {
 	private string $class;

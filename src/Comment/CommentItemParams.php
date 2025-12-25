@@ -1,8 +1,8 @@
 <?php
 
-namespace ArchetypeThemeKit\Comment;
+namespace CalmCanvas\ArchetypeThemeKit\Comment;
 
-use ArchetypeThemeKit\Contract\Comment\CommentItemParamsInterface;
+use CalmCanvas\ArchetypeThemeKit\Contract\Comment\CommentItemParamsInterface;
 
 class CommentItemParams implements CommentItemParamsInterface {
 	private \WP_Comment $comment;

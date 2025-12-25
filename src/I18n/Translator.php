@@ -1,9 +1,9 @@
 <?php
 
-namespace ArchetypeThemeKit\I18n;
+namespace CalmCanvas\ArchetypeThemeKit\I18n;
 
-use ArchetypeThemeKit\Contract\I18n\DictionaryInterface;
-use ArchetypeThemeKit\Contract\I18n\TranslatorInterface;
+use CalmCanvas\ArchetypeThemeKit\Contract\I18n\DictionaryInterface;
+use CalmCanvas\ArchetypeThemeKit\Contract\I18n\TranslatorInterface;
 
 class Translator implements TranslatorInterface {
 	private DictionaryInterface $dictionary;

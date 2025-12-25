@@ -1,6 +1,6 @@
 <?php
 
-namespace ArchetypeThemeKit\Contract;
+namespace CalmCanvas\ArchetypeThemeKit\Contract;
 
 /**
  * Interface CacheInterface

@@ -1,6 +1,6 @@
 <?php
 
-namespace ArchetypeThemeKit\Constant\HTML;
+namespace CalmCanvas\ArchetypeThemeKit\Constant\HTML;
 
 interface Tag {
 	const IFRAME = 'iframe';

@@ -1,6 +1,6 @@
 <?php
 
-namespace ArchetypeThemeKit\Constant\FilterHook;
+namespace CalmCanvas\ArchetypeThemeKit\Constant\FilterHook;
 
 interface I18n {
 	const SET_DICTIONARY = 'opw/i18n/set_dictionary';

@@ -1,8 +1,8 @@
 <?php
 
-namespace ArchetypeThemeKit\Widget;
+namespace CalmCanvas\ArchetypeThemeKit\Widget;
 
-use ArchetypeThemeKit\Constant\I18n\Slug;
+use CalmCanvas\ArchetypeThemeKit\Constant\I18n\Slug;
 
 abstract class StreamWidget extends Widget implements StreamWidgetInterface {
 	/**

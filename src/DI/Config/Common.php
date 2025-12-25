@@ -1,13 +1,13 @@
 <?php
 
-namespace ArchetypeThemeKit\DI\Config;
+namespace CalmCanvas\ArchetypeThemeKit\DI\Config;
 
 use Aura\Di\{Container, ContainerConfig};
 use Aura\Di\Exception\{ContainerLocked, ServiceNotObject};
-use ArchetypeThemeKit\Contract\I18n\{DictionaryInterface, TranslatorInterface};
-use ArchetypeThemeKit\I18n\{Dictionary, Translator};
-use ArchetypeThemeKit\Contract\Helper\{CssNamingInterface, DataInterface};
-use ArchetypeThemeKit\Helper\{BemCssNaming, Data};
+use CalmCanvas\ArchetypeThemeKit\Contract\I18n\{DictionaryInterface, TranslatorInterface};
+use CalmCanvas\ArchetypeThemeKit\I18n\{Dictionary, Translator};
+use CalmCanvas\ArchetypeThemeKit\Contract\Helper\{CssNamingInterface, DataInterface};
+use CalmCanvas\ArchetypeThemeKit\Helper\{BemCssNaming, Data};
 
 class Common extends ContainerConfig {
 	/**

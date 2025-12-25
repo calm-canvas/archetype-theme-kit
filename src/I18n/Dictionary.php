@@ -1,9 +1,9 @@
 <?php
 
-namespace ArchetypeThemeKit\I18n;
+namespace CalmCanvas\ArchetypeThemeKit\I18n;
 
-use ArchetypeThemeKit\Constant\FilterHook\I18n;
-use ArchetypeThemeKit\Contract\I18n\DictionaryInterface;
+use CalmCanvas\ArchetypeThemeKit\Constant\FilterHook\I18n;
+use CalmCanvas\ArchetypeThemeKit\Contract\I18n\DictionaryInterface;
 
 class Dictionary implements DictionaryInterface {
 	private array $book;

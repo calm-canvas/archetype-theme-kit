@@ -1,6 +1,6 @@
 <?php
 
-namespace ArchetypeThemeKit\Widget;
+namespace CalmCanvas\ArchetypeThemeKit\Widget;
 
 /**
  * Interface StreamWidgetInterface

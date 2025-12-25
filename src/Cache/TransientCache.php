@@ -1,8 +1,8 @@
 <?php
 
-namespace ArchetypeThemeKit\Cache;
+namespace CalmCanvas\ArchetypeThemeKit\Cache;
 
-use ArchetypeThemeKit\Contract\CacheInterface;
+use CalmCanvas\ArchetypeThemeKit\Contract\CacheInterface;
 
 class TransientCache implements CacheInterface {
 	/**

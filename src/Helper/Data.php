@@ -1,11 +1,11 @@
 <?php
 
-namespace ArchetypeThemeKit\Helper;
+namespace CalmCanvas\ArchetypeThemeKit\Helper;
 
-use ArchetypeThemeKit\Constant\FilterHook\Data as DataFilterHook;
-use ArchetypeThemeKit\Constant\HTML\Attribute;
-use ArchetypeThemeKit\Contract\Helper\DataInterface;
-use ArchetypeThemeKit\Constant\HTML\Tag;
+use CalmCanvas\ArchetypeThemeKit\Constant\FilterHook\Data as DataFilterHook;
+use CalmCanvas\ArchetypeThemeKit\Constant\HTML\Attribute;
+use CalmCanvas\ArchetypeThemeKit\Contract\Helper\DataInterface;
+use CalmCanvas\ArchetypeThemeKit\Constant\HTML\Tag;
 
 class Data implements DataInterface {
 

@@ -1,14 +1,14 @@
 <?php
 
-namespace ArchetypeThemeKit\Widget;
+namespace CalmCanvas\ArchetypeThemeKit\Widget;
 
-use ArchetypeThemeKit\Cache\CacheFactory;
-use ArchetypeThemeKit\Constant\Duration;
-use ArchetypeThemeKit\Constant\FilterHook\Cache;
-use ArchetypeThemeKit\Contract\CacheableInterface;
-use ArchetypeThemeKit\Contract\Helper\DataInterface;
-use ArchetypeThemeKit\Contract\I18n\TranslatorInterface;
-use ArchetypeThemeKit\Engine;
+use CalmCanvas\ArchetypeThemeKit\Cache\CacheFactory;
+use CalmCanvas\ArchetypeThemeKit\Constant\Duration;
+use CalmCanvas\ArchetypeThemeKit\Constant\FilterHook\Cache;
+use CalmCanvas\ArchetypeThemeKit\Contract\CacheableInterface;
+use CalmCanvas\ArchetypeThemeKit\Contract\Helper\DataInterface;
+use CalmCanvas\ArchetypeThemeKit\Contract\I18n\TranslatorInterface;
+use CalmCanvas\ArchetypeThemeKit\Engine;
 use WP_Widget;
 
 /**

@@ -1,6 +1,6 @@
 <?php
 
-namespace ArchetypeThemeKit\Constant\I18n;
+namespace CalmCanvas\ArchetypeThemeKit\Constant\I18n;
 
 interface Slug {
 	const ALL = 'all';

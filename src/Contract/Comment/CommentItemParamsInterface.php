@@ -1,6 +1,6 @@
 <?php
 
-namespace ArchetypeThemeKit\Contract\Comment;
+namespace CalmCanvas\ArchetypeThemeKit\Contract\Comment;
 
 interface CommentItemParamsInterface {
 	const DEFAULT_AVATAR_SIZE = 64;

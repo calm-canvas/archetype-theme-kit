@@ -1,10 +1,10 @@
 <?php
 
-namespace ArchetypeThemeKit\Cache;
+namespace CalmCanvas\ArchetypeThemeKit\Cache;
 
-use ArchetypeThemeKit\Constant\FilterHook\Cache;
-use ArchetypeThemeKit\Contract\CacheFactoryInterface;
-use ArchetypeThemeKit\Contract\CacheInterface;
+use CalmCanvas\ArchetypeThemeKit\Constant\FilterHook\Cache;
+use CalmCanvas\ArchetypeThemeKit\Contract\CacheFactoryInterface;
+use CalmCanvas\ArchetypeThemeKit\Contract\CacheInterface;
 
 class CacheFactory implements CacheFactoryInterface {
 	/**

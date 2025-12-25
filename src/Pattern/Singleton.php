@@ -1,6 +1,6 @@
 <?php
 
-namespace ArchetypeThemeKit\Pattern;
+namespace CalmCanvas\ArchetypeThemeKit\Pattern;
 
 /**
  * Trait Singleton

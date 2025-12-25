@@ -1,6 +1,6 @@
 <?php
 
-namespace ArchetypeThemeKit\Contract;
+namespace CalmCanvas\ArchetypeThemeKit\Contract;
 
 interface CacheableInterface {
 	function is_use_cache(): bool;
