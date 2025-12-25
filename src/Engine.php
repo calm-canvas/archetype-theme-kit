@@ -2,8 +2,6 @@
 
 namespace CalmCanvas\ArchetypeThemeKit;
 
-require_once dirname( __DIR__ ) . '/vendor/autoload.php';
-
 use Aura\Di\ContainerBuilder;
 use Aura\Di\Container;
 use Aura\Di\Exception\ServiceNotFound;
