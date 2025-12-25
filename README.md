@@ -28,7 +28,7 @@ Archetype Theme Kit is a comprehensive toolkit built for WordPress theme develop
 Install via Composer:
 
 ```bash
-composer require your-vendor/archetype-theme-kit
+composer require calm-canvas/archetype-theme-kit
 ```
 
 Then include the Composer autoloader in your WordPress theme:
@@ -42,7 +42,7 @@ require_once get_template_directory() . '/vendor/autoload.php';
 Access services through the Engine's static resolver:
 
 ```php
-use ArchetypeThemeKit\Engine;
+use CalmCanvas\ArchetypeThemeKit\Engine;
 
 $service = Engine::resolve('service-name');
 ```
